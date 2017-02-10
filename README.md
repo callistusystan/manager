@@ -5,12 +5,16 @@ This project is a simple phone app that I made to enhance my understand of React
 It features a login system (with Firebase as the underlying backend) that allows users to manage employees.
 The employees can be added at any time, with details such as Name, Phone and Shift.
 
-Users can edit the employee profiles, as well as text them, which launches the SMS app with a SMS to send to the selected employee. 
+Users can edit the employee profiles, as well as text them, which launches the SMS app with a SMS to send to the selected employee.
 Users also have the ability to fire the employees, which will remove them.
+
+![Alt text](/screenshots/screenshot1.png?raw=true "Employee List")
+![Alt text](/screenshots/screenshot2.png?raw=true "Create Employee")
+![Alt text](/screenshots/screenshot3.png?raw=true "Edit Employee")
 
 ###Usage###
 
-Requirements: 
+Requirements:
 
 1. Node.js
 2. React Native
