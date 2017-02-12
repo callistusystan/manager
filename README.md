@@ -8,9 +8,9 @@ The employees can be added at any time, with details such as Name, Phone and Shi
 Users can edit the employee profiles, as well as text them, which launches the SMS app with a SMS to send to the selected employee.
 Users also have the ability to fire the employees, which will remove them.
 
-<img src="./screenshots/screenshot1.png" width="240">
-<img src="./screenshots/screenshot2.png" width="240">
-<img src="./screenshots/screenshot3.png" width="240">
+<img src="/screenshots/screenshot1.png" width="240">
+<img src="/screenshots/screenshot2.png" width="240">
+<img src="/screenshots/screenshot3.png" width="240">
 
 ###Usage###
 
