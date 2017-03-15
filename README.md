@@ -12,7 +12,7 @@ Users also have the ability to fire the employees, which will remove them.
 <img src="/screenshots/screenshot2.png" width="240">
 <img src="/screenshots/screenshot3.png" width="240">
 
-###Usage###
+### Usage ###
 
 Requirements:
 
