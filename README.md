@@ -9,12 +9,12 @@ Users can edit the employee profiles, as well as text them, which launches the S
 Users also have the ability to fire the employees, which will remove them.
 
 <div>
-	![Alt text](/screenshots/screenshot1.png?raw=true "Employee List")
-	![Alt text](/screenshots/screenshot2.png?raw=true "Create Employee")
-	![Alt text](/screenshots/screenshot3.png?raw=true "Edit Employee")
+	<img src="/screenshots/screenshot1.png" width="240">
+	<img src="/screenshots/screenshot2.png" width="240">
+	<img src="/screenshots/screenshot3.png" width="240">
 </div>
 
-###Usage###
+### Usage ###
 
 Requirements:
 
